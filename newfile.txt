@@ -1,1 +1,2 @@
 this is a new file to test for git practice
+new text from terminal
