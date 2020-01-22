@@ -1,1 +1,3 @@
 this is a new file to test for git practice
+
+I am going to test out what happens when I edit a file directly on Github...first I will try to push a different/edited version to Github...my expectation is that I will get an error and will first have to pull it...we'll find out!
